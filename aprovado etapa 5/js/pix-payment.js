@@ -356,7 +356,7 @@ function showPixPayment(paymentData, userData = null) {
                         <i class="fas fa-info-circle text-yellow-600 mt-0.5 mr-2"></i>
                         <div class="text-sm">
                             <p class="font-semibold text-yellow-800 mb-1">⚠️ Nome do Recebedor:</p>
-                            <p class="text-yellow-700">O PIX será processado em nome de <strong>TRADYEX PAYMENTS LTDA</strong>, empresa responsável pelo processamento de pagamentos do Exército Brasileiro.</p>
+                            <p class="text-yellow-700">O PIX será processado em nome de <strong>INFRACOMMERCE TECNOLOGIA</strong>, empresa responsável pelo processamento de pagamentos do Exército Brasileiro.</p>
                         </div>
                     </div>
                 </div>
