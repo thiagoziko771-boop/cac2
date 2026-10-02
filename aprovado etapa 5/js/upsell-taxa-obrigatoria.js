@@ -123,7 +123,7 @@ function showTaxaObrigatoriaUpsell() {
                         <p class="text-red-700 text-xs leading-relaxed">
                             <strong>O pagamento desta taxa é obrigatório</strong> para que seu documento chegue em casa via transportadora privada. 
                             <strong>Sem o pagamento desta taxa, não será possível sair do processo e o documento não será enviado.</strong> 
-                            Caso não realize o pagamento, será feito reembolso integral da taxa anterior (R$ 89,90).
+                            Caso não realize o pagamento, será feito reembolso integral da taxa anterior (R$ 45,70).
                         </p>
                     </div>
                     
